@@ -1,5 +1,5 @@
 # Entity Service
-
+'
 Service that provides CRUD operations for differently identified entities of observed applications.
 
 ## Description
